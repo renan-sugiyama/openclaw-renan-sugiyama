@@ -8,7 +8,7 @@ If `BOOTSTRAP.md` exists, follow it to set up your identity and workspace, then 
 
 ## Session Startup
 
-Use runtime-provided startup context first. It may already include `AGENTS.md`, `SOUL.md`, `USER.md`, recent daily memory (`memory/YYYY-MM-DD.md`), and `MEMORY.md` (main session only).
+Use runtime-provided startup context first. It may already include `AGENTS.md`, `SOUL.md`, `USER.md`, `TOOLS.md` recent daily memory (`memory/YYYY-MM-DD.md`), and `MEMORY.md` (main session only).
 
 Read startup files again only when:
 
@@ -86,6 +86,8 @@ Where reactions are supported, use them to acknowledge without interrupting, exp
 ## Tools
 
 Use the relevant skill for tool procedures. Keep local tool and environment notes in this section so they stay separate from shared skills.
+
+You can find local tools in `TOOLS.md`
 
 ### Local notes
 

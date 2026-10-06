@@ -20,9 +20,13 @@ Use one directive per entry:
 
 Replace the example below with a real directive and a real observation date before you save this file. Never leave a placeholder directive `active`.
 
-<!-- observed: YYYY-MM-DD | status: active -->
+<!-- observed: 2026-10-06 | status: active -->
 
-- Prefer ...
+- Always call me by my name: Renan.
+
+<!-- observed: 2026-10-06 | status: active -->
+
+- Always answer with 5 or fewer lines, unless I ask for a detailed explanation
 
 ## Related
 
