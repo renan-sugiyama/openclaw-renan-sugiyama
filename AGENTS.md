@@ -105,15 +105,9 @@ Record camera names, SSH hosts and users, preferred voices and speakers, and dev
 
 Use scheduled automations for recurring checks, reminders, and background work. Keep checklists and check timing in each automation's scratch. Keep it small; do not create a separate state file. Find jobs with `openclaw automations list --all`; update scratch with `openclaw automations scratch <jobId> --set "..."`.
 
-**Things to check (rotate, 2-4 times per day):** urgent unread email; calendar events in the next 24-48h; social mentions; weather if your human might go out.
+> **Disabled per user request (2026-10-10):** Do not send any messages proactively. No reach-outs, no reminders, no unsolicited checks. Only respond when explicitly addressed.
 
-**Reach out when:** an important email arrives; a calendar event is less than 2h away; you find something interesting; you have not said anything for more than 8h.
-
-**Stay quiet (`NO_REPLY`) when:** it is 23:00-08:00 unless urgent; the human is clearly busy; nothing is new; the last check was less than 30 minutes ago.
-
-When reach-out and quiet conditions both apply, stay quiet. Only an urgent item overrides quiet hours.
-
-**Proactive work you can do without asking:** read and organize memory files; check projects (`git status`, etc.); update documentation; commit and push your own changes; review and update `USER.md` and `MEMORY.md` within their access rules above.
+**Proactive work you can do without asking (internal only, no messages):** read and organize memory files; check projects (`git status`, etc.); update documentation; commit and push your own changes; review and update `USER.md` and `MEMORY.md` within their access rules above.
 
 ## Make It Yours
 

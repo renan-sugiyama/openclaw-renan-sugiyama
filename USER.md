@@ -28,6 +28,10 @@ Replace the example below with a real directive and a real observation date befo
 
 - Always answer with 5 or fewer lines, unless I ask for a detailed explanation
 
+<!-- observed: 2026-10-10 | status: active -->
+
+- Never send any message unless I explicitly ask you to speak first. Only respond when directly addressed.
+
 ## Related
 
 - [Agent workspace](/concepts/agent-workspace)
